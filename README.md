@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 // Api key: bb86078759f4f909cdf466ad36ee54ac
 
+=======
+# weather-app
+ A user-friendly weather application designed to provide real-time weather updates and forecasts.
+>>>>>>> 5aa2661a19cf3b26977428ab7124fe763706347b
